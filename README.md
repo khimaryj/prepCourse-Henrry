@@ -1,2 +1,1 @@
-# prepCourse-Henrry
-Este es un repositorio de prueba del modulo 2 del prepcourse de Hnerry
+prueba de como crear un repositorio y colanarlo desde github a mi computadora.
